@@ -1,0 +1,12 @@
+/Users/ainmor/Desktop/Workspace/Masterclass C# 2024/WirebrainCoffee/WiredBrainCoffee.Generators/bin/Debug/net8.0/WiredBrainCoffee.Generators.deps.json
+/Users/ainmor/Desktop/Workspace/Masterclass C# 2024/WirebrainCoffee/WiredBrainCoffee.Generators/bin/Debug/net8.0/WiredBrainCoffee.Generators.dll
+/Users/ainmor/Desktop/Workspace/Masterclass C# 2024/WirebrainCoffee/WiredBrainCoffee.Generators/bin/Debug/net8.0/WiredBrainCoffee.Generators.pdb
+/Users/ainmor/Desktop/Workspace/Masterclass C# 2024/WirebrainCoffee/WiredBrainCoffee.Generators/obj/Debug/net8.0/WiredBrainCoffee.Generators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainmor/Desktop/Workspace/Masterclass C# 2024/WirebrainCoffee/WiredBrainCoffee.Generators/obj/Debug/net8.0/WiredBrainCoffee.Generators.AssemblyInfoInputs.cache
+/Users/ainmor/Desktop/Workspace/Masterclass C# 2024/WirebrainCoffee/WiredBrainCoffee.Generators/obj/Debug/net8.0/WiredBrainCoffee.Generators.AssemblyInfo.cs
+/Users/ainmor/Desktop/Workspace/Masterclass C# 2024/WirebrainCoffee/WiredBrainCoffee.Generators/obj/Debug/net8.0/WiredBrainCoffee.Generators.csproj.CoreCompileInputs.cache
+/Users/ainmor/Desktop/Workspace/Masterclass C# 2024/WirebrainCoffee/WiredBrainCoffee.Generators/obj/Debug/net8.0/WiredBrainCoffee.Generators.dll
+/Users/ainmor/Desktop/Workspace/Masterclass C# 2024/WirebrainCoffee/WiredBrainCoffee.Generators/obj/Debug/net8.0/refint/WiredBrainCoffee.Generators.dll
+/Users/ainmor/Desktop/Workspace/Masterclass C# 2024/WirebrainCoffee/WiredBrainCoffee.Generators/obj/Debug/net8.0/WiredBrainCoffee.Generators.pdb
+/Users/ainmor/Desktop/Workspace/Masterclass C# 2024/WirebrainCoffee/WiredBrainCoffee.Generators/obj/Debug/net8.0/ref/WiredBrainCoffee.Generators.dll
+/Users/ainmor/Desktop/Workspace/Masterclass C# 2024/WirebrainCoffee/WiredBrainCoffee.Generators/obj/Debug/net8.0/WiredBrainCoffee.Generators.csproj.AssemblyReference.cache
